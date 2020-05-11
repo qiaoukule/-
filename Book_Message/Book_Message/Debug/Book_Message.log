@@ -1,0 +1,14 @@
+﻿  pch.cpp
+  BookManagment.cpp
+d:\1班 20193992 黃荍 程序+文檔\1班 20193992 黃荍 程序\book_message\book_message\bookmanagment.cpp(85): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\1班 20193992 黃荍 程序+文檔\1班 20193992 黃荍 程序\book_message\book_message\bookmanagment.cpp(86): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\1班 20193992 黃荍 程序+文檔\1班 20193992 黃荍 程序\book_message\book_message\bookmanagment.cpp(184): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  Book.cpp
+d:\1班 20193992 黃荍 程序+文檔\1班 20193992 黃荍 程序\book_message\book_message\book.cpp(399): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  Bookpurchase.cpp
+d:\1班 20193992 黃荍 程序+文檔\1班 20193992 黃荍 程序\book_message\book_message\bookpurchase.cpp(117): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+d:\1班 20193992 黃荍 程序+文檔\1班 20193992 黃荍 程序\book_message\book_message\bookpurchase.cpp(183): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  main.cpp
+  正在生成代码...
+d:\1班 20193992 黃荍 程序+文檔\1班 20193992 黃荍 程序\book_message\book_message\book.cpp(165): warning C4715: “Book::judgeInventory”: 不是所有的控件路径都返回值
+  Book_Message.vcxproj -> D:\1班 20193992 黃荍 程序+文檔\1班 20193992 黃荍 程序\Book_Message\Debug\Book_Message.exe
